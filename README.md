@@ -4,4 +4,4 @@
 
 Code:
 https://user-images.githubusercontent.com/35728885/191994450-e722ee7c-828c-4743-8c4d-c7723bc4bf50.png
-<img src="https://user-images.githubusercontent.com/35728885/191994450-e722ee7c-828c-4743-8c4d-c7723bc4bf50.png" height="900px"  width="100%">
+<img src="https://user-images.githubusercontent.com/35728885/191994450-e722ee7c-828c-4743-8c4d-c7723bc4bf50.png" height="100%"  width="100%">
