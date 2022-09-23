@@ -4,6 +4,9 @@
 <p>This script is "as is" and no further support may be guaranteed. You may use it as you wish, but do not expect support. You may request features, but this is just an upload based upon work I acctualy do in my work. This script has only been tested so far with Dell Optiplex, but based upon documentation from Dell, it will most likely work with other model serieses aswell. We're going to test it with the Latitude series very soon. For further bios settings you may set with this script see the <a href="https://dl.dell.com/content/manual25451988-dell-command-configure-version-4-7-user-s-guide.pdf?language=en-us&ps=true">Dell Command Configure documentation</a>, you'll mostly just need to copy other settings found in the powershell script in this repository and modify the settings to set. Please have an look through of the script before running, so that you know what are being set.</p><br>
 
 <img src="https://user-images.githubusercontent.com/35728885/191994450-e722ee7c-828c-4743-8c4d-c7723bc4bf50.png" height="100%"  width="100%">
+<img src="https://user-images.githubusercontent.com/35728885/191998928-2a64bf58-0cb9-4930-938a-6479c385ba76.png" height="100%"  width="100%">
+<img src="https://user-images.githubusercontent.com/35728885/191998994-28614dc0-fb60-450f-96ec-262d732dcec2.png" height="100%"  width="100%">
+
 <br><br><br><br><br><br><br>
 <ul><li>Create an group of operations to perform during an deployment and add an WMI filter to filter out all dell computers (Select * From Win32_ComputerSystem WHERE Manufacturer LIKE "%DELL%")</li></ul>
 
